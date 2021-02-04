@@ -23,5 +23,8 @@ Some of the core features of the website will include:
 4.	Admin can create products for users to see.
 5.	Admin can delete products in the store.
 6.	Users can buy products using M-PESA.
-7.	
+7.	Users can view the news section of what is happening to Virgins hospital based on the Social Media Feeds.
+8. Users can reset their passwords.
+9. Users should initiate return of a product.
+10. There should be an integrated chatbot system to assist users in trivial questions.
 
