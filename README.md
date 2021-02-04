@@ -1,4 +1,10 @@
 # virgins_hospital
+***
+This project was inspired by Andela Developer Challenge Bootcamp project of 2019
+In that project, developers built a voting application using MVC pattern and Flask
+In this project, however, the main stack is JavaScript and not Python
+I am using Node, MongoDB and React to build a fully functional e-commerce website and not Python, Flask framework
+***
 Introduction
 Many businesses are moving from the traditional stores and rapidly establishing their online presence and such a transition has shown a great success among some of the largest retailers in Kenya such as Jumia and Kilimail. It really shows that establishing online presence for an organization will be a prerequisite in few years coming. It also comes as a shock during the Coronavirus pandemic when many traditional stores such as Shoprite, Nakumatt and Tuskys are either scaling back their operations or closing off their businesses completely.
 While almost all businesses would like to establish an online presence, the major drawback that often strike them in an attempt to do so is shortage or complete lack of personnel to drive them forward. Such personnel are often too expensive to afford for small business or are even outright unreachable. Despite all the drawbacks, this project will be an attempt by the Virgins hospital to initiate its transition from traditional physical service delivery and towards establishment of online presence through a construction of a fully functional website.
